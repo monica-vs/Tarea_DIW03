@@ -61,8 +61,8 @@ nav {
 
 .principal {
     position: absolute;
-    top: 30%;
-    left: 5%;
+    top: 20em;
+    left: 5em;
     z-index: 1;
     color: #F6F4F4;
 }
@@ -168,5 +168,5 @@ footer {
 }
 
 .enlaces a:hover {
-    color: #EDE9E9;
+    text-decoration: underline;
 }
